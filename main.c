@@ -10,6 +10,8 @@ int main()
 
 	printf("git successfully installed\n");
 
+	printf("New branch is added at github server\n");
+
 	return 0;
 
 
