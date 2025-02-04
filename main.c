@@ -8,6 +8,8 @@ int main()
 
 	printf("Author Name is Satyam Walekar\n");
 
+	printf("git successfully installed\n");
+
 	return 0;
 
 
