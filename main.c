@@ -6,6 +6,8 @@ int main()
 
 	printf("This is a simple git project\n");
 
+	printf("Author Name is Satyam Walekar\n");
+
 	return 0;
 
 
